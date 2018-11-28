@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zbox/CLionProjects/Classes_and_DataStructures/Array/Array.cpp
+Array.h
+/home/zbox/CLionProjects/Classes_and_DataStructures/Array/Array.h
+
+/home/zbox/CLionProjects/Classes_and_DataStructures/Array/Array.h
+string
+-
+Array.cpp
+/home/zbox/CLionProjects/Classes_and_DataStructures/Array/Array.cpp
+
+/home/zbox/CLionProjects/Classes_and_DataStructures/Array/useArray.cpp
+iostream
+-
+Array.h
+/home/zbox/CLionProjects/Classes_and_DataStructures/Array/Array.h
+
